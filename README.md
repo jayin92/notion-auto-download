@@ -1,6 +1,6 @@
 # Notion-Auto-Download
 
-A small python script that can read database in notion and download the pdf files of papers automatically.
+A python script that can read database in notion and download the pdf files of papers automatically.
 
 ## Usage
 
